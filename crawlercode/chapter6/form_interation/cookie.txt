@@ -1,0 +1,6 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+cas.whu.edu.cn	FALSE	/	FALSE		JSESSIONID_ids2	000127-kIvXeaNSzIesBGi8Iqav:1LF2QNJ90H
+cas.whu.edu.cn	FALSE	/authserver	FALSE		route	165d580f5e5507854f7a53b13f17f8e0
